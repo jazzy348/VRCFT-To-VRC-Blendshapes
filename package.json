@@ -1,0 +1,30 @@
+{
+  "name": "vrcft-to-vrc",
+  "version": "1.0.0",
+  "description": "Translator between VRCFT to VRC default eye blendshapes",
+  "keywords": [
+    "blendshape",
+    "vrcft",
+    "vrchat",
+    "eye",
+    "tracking"
+  ],
+  "homepage": "https://github.com/jazzy348/VRCFT-To-VRC-Blendshapes#readme",
+  "bugs": {
+    "url": "https://github.com/jazzy348/VRCFT-To-VRC-Blendshapes/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jazzy348/VRCFT-To-VRC-Blendshapes.git"
+  },
+  "license": "ISC",
+  "author": "Jazzy Senpai",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "osc": "^2.4.5"
+  }
+}
