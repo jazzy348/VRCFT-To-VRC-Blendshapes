@@ -1,5 +1,5 @@
 # VRCFT-To-VRC-Blendshapes
-A quick re-mapper for VRCFaceTracking to VRChat's default eye control blendshapes
+A quick re-mapper for VRCFaceTracking to VRChat's default eye control blendshapes. This allows you to use vrc.blink_left and vrc.blink_right for eyelid tracking rather than creating new ones for VRCFT.
 
 ## Requirements
 - NodeJS
