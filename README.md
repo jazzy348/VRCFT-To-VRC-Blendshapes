@@ -5,6 +5,7 @@ A quick re-mapper for VRCFaceTracking to VRChat's default eye control blendshape
 - NodeJS
 - VRCFury
 
+## Setup
 Import the Unity Package into your project
 
 In A_JazzySenpai_Eyetracking_Stuff drag the "Eye Tracking Prefab" onto the root of your avatar
